@@ -1,0 +1,145 @@
+---
+---
+
+/* Custom CSS for clean, minimal faculty site design */
+
+/* Increase overall spacing and whitespace */
+.page__content {
+  line-height: 1.8;
+  font-size: 16px;
+}
+
+/* Add breathing room to main content */
+.page {
+  padding-top: 2em;
+}
+
+/* Clean header spacing */
+.masthead {
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+/* Minimal sidebar */
+.sidebar {
+  opacity: 1;
+}
+
+.author__avatar img {
+  border-radius: 50%;
+}
+
+.author__content {
+  margin-top: 1em;
+}
+
+/* Clean navigation */
+.greedy-nav {
+  background: var(--global-bg-color);
+}
+
+.greedy-nav a {
+  color: var(--global-masthead-link-color);
+  font-weight: 400;
+}
+
+.greedy-nav a:hover {
+  color: var(--global-masthead-link-color-hover);
+}
+
+/* Enhance link styles */
+a {
+  color: var(--global-link-color);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: var(--global-link-color-hover);
+}
+
+/* Clean footer */
+.page__footer {
+  margin-top: 4em;
+  padding: 2em 0;
+  border-top: 1px solid var(--global-border-color);
+}
+
+/* Typography improvements */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+/* Add more whitespace around sections */
+.archive {
+  margin-bottom: 2em;
+}
+
+.archive__item {
+  margin-bottom: 2em;
+}
+
+/* Clean list styles */
+ul, ol {
+  margin-bottom: 1.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Remove excessive borders */
+.page__content hr {
+  border: 0;
+  border-top: 1px solid var(--global-border-color);
+  margin: 3em 0;
+}
+
+/* Clean table styles */
+table {
+  border: 1px solid var(--global-border-color);
+}
+
+th {
+  background: var(--global-thead-color);
+  border-bottom: 2px solid var(--global-border-color);
+}
+
+/* Improve readability */
+p {
+  margin-bottom: 1.5em;
+}
+
+/* Clean blockquotes */
+blockquote {
+  border-left: 4px solid var(--global-link-color);
+  padding-left: 1.5em;
+  font-style: italic;
+  color: var(--global-text-color-light);
+}
+
+/* Minimal code blocks */
+code {
+  background: var(--global-code-background-color);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre {
+  background: var(--global-code-background-color);
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+  padding: 1em;
+}
+
+/* Responsive spacing */
+@media (max-width: 768px) {
+  .page__content {
+    font-size: 15px;
+  }
+  
+  .page {
+    padding-top: 1em;
+  }
+}
