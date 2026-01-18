@@ -9,33 +9,33 @@ redirect_from:
 
 ## About Me
 
-I am [Your Name], a [position/title] at [institution]. My work focuses on [brief 2-3 sentence description of your primary research or professional focus]. I am passionate about [key area] and its applications to [specific domain or impact area].
+I am an Associate Professor of Accounting at the Goizueta Business School, Emory University. My research examines [add your research focus here - e.g., corporate disclosure, financial reporting quality, capital markets].
 
 ## Areas of Interest
 
-* [Area of Interest 1] – [brief description if needed]
-* [Area of Interest 2] – [brief description if needed]
-* [Area of Interest 3] – [brief description if needed]
-* [Area of Interest 4] – [brief description if needed]
-* [Area of Interest 5] – [brief description if needed]
+* Accounting disclosure and transparency
+* Corporate financial reporting
+* Empirical capital markets research
+* [Add additional area of interest]
+* [Add additional area of interest]
 
 ## Featured Research
 
-**[Featured Research Paper 1 Title]**  
-[Author names]  
-*[Venue/Journal, Year]*  
+**[Paper Title 1]**  
+Matthew Lyle [and co-authors]  
+*[Journal Name, Year]*  
 [One-sentence description of the key contribution or finding]  
 [[PDF](#)] [[Link](#)]
 
-**[Featured Research Paper 2 Title]**  
-[Author names]  
-*[Venue/Journal, Year]*  
+**[Paper Title 2]**  
+Matthew Lyle [and co-authors]  
+*[Journal Name, Year]*  
 [One-sentence description of the key contribution or finding]  
 [[PDF](#)] [[Link](#)]
 
-**[Featured Research Paper 3 Title]**  
-[Author names]  
-*[Venue/Journal, Year]*  
+**[Paper Title 3]**  
+Matthew Lyle [and co-authors]  
+*[Journal Name, Year]*  
 [One-sentence description of the key contribution or finding]  
 [[PDF](#)] [[Link](#)]
 
@@ -43,7 +43,7 @@ I am [Your Name], a [position/title] at [institution]. My work focuses on [brief
 
 I welcome opportunities for collaboration and academic exchange. For invited talks, executive education, or advisory engagements, please reach out by email.
 
-**Email:** [your.email@institution.edu]  
-**Office:** [Building Name, Room Number]  
-**Institution:** [Institution Name]
+**Email:** [your.email@emory.edu]  
+**Office:** [Office location]  
+**Institution:** Goizueta Business School, Emory University
 

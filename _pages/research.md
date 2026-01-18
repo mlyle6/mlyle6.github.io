@@ -7,44 +7,44 @@ author_profile: true
 
 ## Research Interests
 
-My research focuses on the intersection of [Topic Area 1], [Topic Area 2], and [Topic Area 3]. I employ [methodology/approach] to address fundamental questions in [field].
+My research focuses on corporate financial reporting and disclosure, with particular emphasis on how accounting information affects capital markets and corporate decision-making. I employ archival empirical methods to examine questions related to financial reporting quality, disclosure practices, and information transparency.
 
 Key areas of investigation include:
-* [Research interest 1]
-* [Research interest 2]
-* [Research interest 3]
-* [Research interest 4]
+* Corporate disclosure and transparency
+* Financial reporting quality and earnings management
+* Capital markets research
+* Accounting regulation and policy
 
 ## Working Papers
 
-**[Paper Title 1]**  
-[Author names]  
-*Status: Under review / Working paper*  
-[Brief description of the paper and its contributions]
+**[Working Paper Title 1]**  
+Matthew Lyle [and co-authors]  
+*Under review*  
+[Brief description of the paper and its contributions - 1-2 sentences]
 
-**[Paper Title 2]**  
-[Author names]  
-*Status: Under review / Working paper*  
-[Brief description of the paper and its contributions]
+**[Working Paper Title 2]**  
+Matthew Lyle [and co-authors]  
+*Working paper*  
+[Brief description of the paper and its contributions - 1-2 sentences]
 
-**[Paper Title 3]**  
-[Author names]  
-*Status: Working paper*  
-[Brief description of the paper and its contributions]
+**[Working Paper Title 3]**  
+Matthew Lyle [and co-authors]  
+*Working paper*  
+[Brief description of the paper and its contributions - 1-2 sentences]
 
 ## Publications
 
 **[Published Paper Title 1]**  
-[Author names]  
+Matthew Lyle [and co-authors]  
 *[Journal Name], [Year]*  
-[Brief description of the paper] [[Link](#)]
+[Brief description of the paper] [[Link](#)] [[PDF](#)]
 
 **[Published Paper Title 2]**  
-[Author names]  
+Matthew Lyle [and co-authors]  
 *[Journal Name], [Year]*  
-[Brief description of the paper] [[Link](#)]
+[Brief description of the paper] [[Link](#)] [[PDF](#)]
 
 **[Published Paper Title 3]**  
-[Author names]  
-*[Conference/Journal Name], [Year]*  
-[Brief description of the paper] [[Link](#)]
+Matthew Lyle [and co-authors]  
+*[Journal Name], [Year]*  
+[Brief description of the paper] [[Link](#)] [[PDF](#)]
