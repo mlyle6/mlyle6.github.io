@@ -31,4 +31,4 @@ Below are some of my open-source projects and research code repositories:
 
 ---
 
-For more projects and contributions, visit my [GitHub profile](https://github.com/mlyle6).
+For more projects and contributions, visit my [GitHub profile](https://github.com/username).
