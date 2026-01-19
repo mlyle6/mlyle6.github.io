@@ -113,7 +113,7 @@ author_profile: true
   <div class="code-intro">
     <p>I develop open-source software and tools to support research and education. These projects reflect my commitment to reproducible research and making computational methods accessible to the broader community.</p>
     
-    <p>All code is available on GitHub. Contributions and collaborations are welcome.</p>
+    <p>All code is available on GitHub and released under permissive open-source licenses. Contributions and collaborations are welcome.</p>
   </div>
 
   <h2>Selected Repositories</h2>
@@ -137,22 +137,9 @@ author_profile: true
         <span class="tech-tag">GitHub Pages</span>
       </div>
     </div>
-
-    <div class="project-item">
-      <div class="project-header">
-        <div class="project-title">
-          <a href="https://github.com/mlyle6" target="_blank">Additional Projects</a>
-        </div>
-        <div class="project-links">
-          <a href="https://github.com/mlyle6" class="project-link" target="_blank">View Profile</a>
-        </div>
-      </div>
-      <div class="project-description">
-        Visit my GitHub profile to explore additional research projects, tools, and contributions to open-source software.
-      </div>
-      <div class="project-tech">
-        <span class="tech-tag">Various Technologies</span>
-      </div>
-    </div>
   </div>
+
+  <p style="text-align: center; margin-top: 2em; color: #777;">
+    <a href="https://github.com/mlyle6" target="_blank" style="color: #012169;">Visit my GitHub profile</a> to explore additional projects and contributions.
+  </p>
 </div>
