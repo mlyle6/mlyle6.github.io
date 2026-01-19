@@ -3,6 +3,7 @@ layout: null
 ---
 
 /* Custom CSS for clean, minimal faculty site design */
+/* Emory University color scheme: Blue #012169, Gold #c79000 */
 
 /* Increase overall spacing and whitespace */
 .page__content {
@@ -33,7 +34,7 @@ layout: null
   margin-top: 1em;
 }
 
-/* Clean navigation */
+/* Clean navigation with Emory blue accent */
 .greedy-nav {
   background: var(--global-bg-color);
 }
@@ -44,18 +45,22 @@ layout: null
 }
 
 .greedy-nav a:hover {
-  color: var(--global-masthead-link-color-hover);
+  color: #012169; /* Emory blue on hover */
 }
 
-/* Enhance link styles */
+.greedy-nav a.site-title {
+  color: #012169; /* Emory blue for site title */
+}
+
+/* Enhance link styles with Emory colors */
 a {
-  color: var(--global-link-color);
+  color: #012169; /* Emory blue for links */
   text-decoration: none;
   transition: all 0.2s ease;
 }
 
 a:hover {
-  color: var(--global-link-color-hover);
+  color: #c79000; /* Emory gold on hover */
 }
 
 /* Clean footer */
@@ -65,10 +70,11 @@ a:hover {
   border-top: 1px solid var(--global-border-color);
 }
 
-/* Typography improvements */
+/* Typography improvements with Emory blue accents */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   line-height: 1.4;
+  color: #012169; /* Emory blue for headings */
 }
 
 /* Add more whitespace around sections */
@@ -78,6 +84,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .archive__item {
   margin-bottom: 2em;
+}
+
+.archive__item-title a {
+  color: #012169; /* Emory blue for archive titles */
+}
+
+.archive__item-title a:hover {
+  color: #c79000; /* Emory gold on hover */
 }
 
 /* Clean list styles */
@@ -111,9 +125,9 @@ p {
   margin-bottom: 1.5em;
 }
 
-/* Clean blockquotes */
+/* Clean blockquotes with Emory accent */
 blockquote {
-  border-left: 4px solid var(--global-link-color);
+  border-left: 4px solid #012169; /* Emory blue accent */
   padding-left: 1.5em;
   font-style: italic;
   color: var(--global-text-color-light);
@@ -132,6 +146,24 @@ pre {
   border: 1px solid var(--global-border-color);
   border-radius: 4px;
   padding: 1em;
+}
+
+/* Sidebar social icons with Emory colors */
+.author__urls a:hover {
+  color: #012169; /* Emory blue on hover */
+}
+
+/* Button styles with Emory colors */
+.btn {
+  background-color: #012169; /* Emory blue */
+  color: white;
+  border: 1px solid #012169;
+}
+
+.btn:hover {
+  background-color: #c79000; /* Emory gold on hover */
+  border-color: #c79000;
+  color: white;
 }
 
 /* Responsive spacing */

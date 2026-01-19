@@ -12,7 +12,7 @@ author_profile: true
 }
 
 .research-page h2 {
-  color: #002878;
+  color: #012169;
   font-weight: 400;
   margin-top: 3em;
   margin-bottom: 1.5em;
@@ -51,12 +51,12 @@ author_profile: true
 }
 
 .pub-title a {
-  color: #002878;
+  color: #012169;
   text-decoration: none;
 }
 
 .pub-title a:hover {
-  color: #001850;
+  color: #c79000;
   text-decoration: underline;
 }
 
@@ -89,7 +89,7 @@ author_profile: true
 
 .area-title {
   font-weight: 600;
-  color: #002878;
+  color: #012169;
   margin-bottom: 0.5em;
   font-size: 1.1em;
 }
