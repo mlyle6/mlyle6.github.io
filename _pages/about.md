@@ -14,7 +14,7 @@ redirect_from:
 }
 
 .clean-home h2 {
-  color: #002878;
+  color: #012169;
   font-weight: 400;
   margin-top: 3em;
   margin-bottom: 1.5em;
@@ -22,7 +22,7 @@ redirect_from:
 }
 
 .clean-home h3 {
-  color: #002878;
+  color: #012169;
   font-weight: 400;
   margin-top: 2em;
   margin-bottom: 1em;
@@ -49,7 +49,7 @@ redirect_from:
 
 .interests-list li:before {
   content: "•";
-  color: #002878;
+  color: #012169;
   font-weight: bold;
   display: inline-block;
   width: 1em;
@@ -79,12 +79,12 @@ redirect_from:
 }
 
 .research-title a {
-  color: #002878;
+  color: #012169;
   text-decoration: none;
 }
 
 .research-title a:hover {
-  color: #001850;
+  color: #c79000;
   text-decoration: underline;
 }
 

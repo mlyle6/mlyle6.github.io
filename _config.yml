@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "emory" # The available themes options are "default", "air", "sunrise", "mint", "dirt", "contrast" and "emory"
-title                    : "Faculty Site"
+title                    : "Matthew Lyle"
 title_separator          : "-"
-name                     : &name "Faculty Name"
+name                     : &name "Matthew Lyle"
 description              : &description "Academic research and portfolio"
 url                      : https://mlyle6.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,13 +24,13 @@ repository               : "mlyle6/mlyle6.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Faculty Name"
+  name             : "Matthew Lyle"
   pronouns         : # example: "she/her"  
   bio              : "Researcher & Educator"
-  location         : # Location
-  employer         : # Institution name
+  location         : "Atlanta, GA"
+  employer         : "Emory University"
   uri              : # URL
-  email            : # Email address 
+  email            : # Email address (placeholder) 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : # GitHub username
+  github           : "mlyle6"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name    
 
