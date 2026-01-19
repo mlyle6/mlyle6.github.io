@@ -1,0 +1,48 @@
+/* ==========================================================================
+    EMORY THEME - DARK VERSION
+    Clean, minimal design with Emory blue accents
+    ========================================================================== */
+/* Color codes used for the theme */
+$primary-color              : #002878; // Emory Blue
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+/* Color codes used for the site */
+$danger-color               : #ee5f5b;
+$info-color                 : #002878;
+$notice-color               : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Emory dark theme for the site - clean and minimal */
+:root {
+    --global-base-color                 : #{$primary-color};
+    --global-bg-color                   : #1a1a1a;
+    --global-footer-bg-color            : #0f0f0f;
+    --global-border-color               : #333;
+    --global-dark-border-color          : #444;
+    --global-code-background-color      : #2a2a2a;
+    --global-code-text-color            : #d0d0d0;
+    --global-fig-caption-color          : #999;
+    --global-link-color                 : #4d8fcf; // Lighter Emory Blue for dark mode
+    --global-link-color-hover           : #6ba5db; // Even lighter on hover
+    --global-link-color-visited         : #5a9ad4; // Slightly different for visited
+    --global-masthead-link-color        : #d0d0d0;
+    --global-masthead-link-color-hover  : #4d8fcf; // Emory Blue on hover
+    --global-text-color                 : #e0e0e0;
+    --global-text-color-light           : #999;
+    --global-thead-color                : #2a2a2a;
+}
