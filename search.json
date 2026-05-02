@@ -4,56 +4,63 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "[Semester, Year] | [Program: MBA / MSBA / PhD / Undergraduate]\nBrief description of the course. One or two sentences on topics covered.\n[Syllabus]\n\n\n\n[Semester, Year] | [Program]\nDescription."
+    "text": "PhD course | Fall 2024-present\n\n\n\nNewly developed course | Spring 2024-present\n\n\n\nNewly developed course | Spring 2023-present"
   },
   {
-    "objectID": "teaching.html#current-courses",
-    "href": "teaching.html#current-courses",
+    "objectID": "teaching.html#current-courses-goizueta",
+    "href": "teaching.html#current-courses-goizueta",
     "title": "Teaching",
     "section": "",
-    "text": "[Semester, Year] | [Program: MBA / MSBA / PhD / Undergraduate]\nBrief description of the course. One or two sentences on topics covered.\n[Syllabus]\n\n\n\n[Semester, Year] | [Program]\nDescription."
+    "text": "PhD course | Fall 2024-present\n\n\n\nNewly developed course | Spring 2024-present\n\n\n\nNewly developed course | Spring 2023-present"
   },
   {
     "objectID": "teaching.html#past-courses",
     "href": "teaching.html#past-courses",
     "title": "Teaching",
     "section": "Past Courses",
-    "text": "Past Courses\n\n[Course], [Program], [Years taught]\n[Course], [Program], [Years taught]"
+    "text": "Past Courses\n\nManagerial Accounting | Goizueta Business School, Emory University | Fall 2022\nManagerial Accounting | Kellogg School of Management, Northwestern University | Spring 2014-2022\nValuation and Asset Pricing (PhD course) | Kellogg School of Management | Spring 2017\nAccounting Theory and Contemporary Issues in Accounting | York University | Winter 2011"
   },
   {
-    "objectID": "teaching.html#doctoral-students",
-    "href": "teaching.html#doctoral-students",
+    "objectID": "teaching.html#research-supervision-and-mentorship",
+    "href": "teaching.html#research-supervision-and-mentorship",
     "title": "Teaching",
-    "section": "Doctoral Students",
-    "text": "Doctoral Students\nI have served on dissertation committees for:\n\nStudent Name (Year, placement)\nStudent Name (Year, placement)"
+    "section": "Research Supervision and Mentorship",
+    "text": "Research Supervision and Mentorship\n\nPhD Dissertation Committees\n\nBlake Bawler — placed at University of Florida\nAndrew Stephen — placed at University of Colorado\nEva Yan — placed at Hunter College\n\n\n\nResearch Supervision (Non-PhD)\n\nRishabh Aggarwal — Stanford GSB Ph.D. Program\nClark Shu — Rotman Ph.D. Program\nCindy Lu — Machine Learning and AI Division of the Federal Reserve\nDoron Czarny — Liberty Advisor Group"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Paper Title One\nwith Coauthor A and Coauthor B\nThe Accounting Review, Vol. XX, Issue Y, Pages ZZZ-ZZZ, YEAR.\n[Journal] [SSRN] [Code]\n\n\nAbstract\n\nAbstract text goes here. Keep it to one paragraph.\n\n\n\nPaper Title Two\nwith Coauthor C\nJournal of Financial Economics, Vol. XX, YEAR.\n[Journal] [SSRN]\n\n\nAbstract\n\nAbstract text."
+    "text": "My research focuses on valuation and value investing, and on connecting fundamental analysis with quantitative methods, data analytics, and machine learning for prediction and decision-making."
   },
   {
-    "objectID": "research.html#published-papers",
-    "href": "research.html#published-papers",
+    "objectID": "research.html#published-forthcoming-papers",
+    "href": "research.html#published-forthcoming-papers",
     "title": "Research",
-    "section": "",
-    "text": "Paper Title One\nwith Coauthor A and Coauthor B\nThe Accounting Review, Vol. XX, Issue Y, Pages ZZZ-ZZZ, YEAR.\n[Journal] [SSRN] [Code]\n\n\nAbstract\n\nAbstract text goes here. Keep it to one paragraph.\n\n\n\nPaper Title Two\nwith Coauthor C\nJournal of Financial Economics, Vol. XX, YEAR.\n[Journal] [SSRN]\n\n\nAbstract\n\nAbstract text."
+    "section": "Published & Forthcoming Papers",
+    "text": "Published & Forthcoming Papers\n\nValuation and Returns on Stock Return Volatility\nM.R. Lyle\nThe Accounting Review, 2025, Vol. 100, Issue 2.\n\n\nMeasuring Portfolio Gains: The Case of Earnings Announcement Trading Signals\nwith T. Yohn\nThe Accounting Review, 2024, Vol. 99, Issue 4.\n\n\nChanges in Risk Factor Disclosures and the Variance Risk Premium\nwith E. Riedl and F. Siano\nThe Accounting Review, 2023, Vol. 98, Issue 6.\n\n\nExpected Stock Returns Worldwide: A Log-Linear Present-Value Approach\nwith A. Chattopadhyay and C.C.Y. Wang\nThe Accounting Review, 2022, Vol. 97, Issue 2.\n\n\nFundamental Analysis and Mean-Variance Optimal Portfolios\nwith T. Yohn\nThe Accounting Review, 2021, Vol. 96, Issue 6.\n\n\nThe Term Structure of the Implied Costs of Equity Capital\nwith J.L. Callen\nReview of Accounting Studies, 2020, Vol. 25, Issue 1.\n\n\nInformation Quality, Growth Options, and Average Future Stock Returns\nM.R. Lyle\nThe Accounting Review, 2019, Vol. 94, Issue 1.\n\n\nImplied Cost of Equity Capital Estimates as Predictors of Accounting Returns and Stock Returns\nwith S. Larocque\nJournal of Financial Reporting, 2017, Vol. 2, Issue 1.\n\n\nDiscussion of Valuation: Accounting for Risk and the Expected Return\nM.R. Lyle\nAbacus, 2016, Vol. 52, Issue 1. Invited discussion for special issue on valuation.\n\n\nThe Cross Section of Expected Holding Period Returns and Their Dynamics: A Present Value Approach\nwith C.C.Y. Wang\nJournal of Financial Economics, 2015, Vol. 116, Issue 3.\n\n\nDynamic Risk, Accounting-Based Valuation, and Firm Fundamentals\nwith J.L. Callen and R.J. Elliott\nReview of Accounting Studies, 2013, Vol. 18, Issue 4."
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "Research",
     "section": "Working Papers",
-    "text": "Working Papers\n\nWorking Paper Title\nwith Coauthor D\nRevise and resubmit at [Journal Name]\n[SSRN]\n\n\nAbstract\n\nAbstract text."
+    "text": "Working Papers\n\nThe Differential Market Reaction to Pre-Open versus Post-Close Earnings Announcements\nwith A. Stephan and T. Yohn\n\n\nRe-Adjusted Financial Statement Data: Challenges in Replicating Research\nwith F. Siano and T. Yohn\n\n\nConnecting Expected Stock Returns to Accounting Valuation Multiples: A Primer\nwith A. Chattopadhyay and C.C.Y. Wang"
   },
   {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
+    "objectID": "research.html#publications-in-other-areas",
+    "href": "research.html#publications-in-other-areas",
     "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\n\n“Project title 1” with Coauthor E\n“Project title 2” with Coauthor F"
+    "section": "Publications in Other Areas",
+    "text": "Publications in Other Areas\n\nTrading Volume and Open Interest from Options Markets as Measures of the Effect of IT Announcements\nwith D. Zhang and B. Nault\nInformation Technology & Management, 2024, Vol. 25, Issue 2.\n\n\nA Model for Energy Pricing with Stochastic Emission Costs\nwith R.J. Elliott and H. Miao\nEnergy Economics, 2010, Vol. 32, Issue 4.\n\n\nA “Simple” Hybrid Model for Power Derivatives\nwith R.J. Elliott\nEnergy Economics, 2009, Vol. 31, Issue 5."
+  },
+  {
+    "objectID": "research.html#recent-invited-talks",
+    "href": "research.html#recent-invited-talks",
+    "title": "Research",
+    "section": "Recent Invited Talks",
+    "text": "Recent Invited Talks\n\n2026: Florida International University, Hong Kong University (scheduled)\n2025: University of Utah, Humboldt University of Berlin\n2024: Yale, Texas A&M\n2023: UC Berkeley, Liberty Advisor Group, RAST Conference (discussant)\n\nA complete list of invited presentations is available in my CV."
   },
   {
     "objectID": "cv.html",
@@ -95,41 +102,62 @@
     "href": "index.html",
     "title": "Matthew Lyle",
     "section": "",
-    "text": "I am an Associate Professor of Accounting at the Goizueta Business School, Emory University. I also serve as Area Coordinator for the Accounting area.\nMy research focuses on accounting-based valuation, capital markets, and the design of systematic trading strategies. My work has appeared in The Accounting Review, the Journal of Financial Economics, and the Review of Accounting Studies."
+    "text": "I am the Goizueta Term Chair Associate Professor of Accounting at the Goizueta Business School, Emory University. Before joining Emory in 2022, I was on the faculty of the Kellogg School of Management at Northwestern University.\nMy research focuses on valuation and value investing, and more broadly on connecting fundamental analysis with quantitative methods, data analytics, and machine learning for prediction and decision-making. My work has appeared in The Accounting Review, the Journal of Financial Economics, and the Review of Accounting Studies.\nI hold a Ph.D. in Management from the Rotman School of Management (University of Toronto) and a Ph.D. in Mathematical Finance from the University of Calgary."
   },
   {
     "objectID": "index.html#recent",
     "href": "index.html#recent",
     "title": "Matthew Lyle",
     "section": "Recent",
-    "text": "Recent\n\n[Date] New working paper posted: [paper title]\n[Date] Presenting at [conference / seminar]\n[Date] [Other update]"
+    "text": "Recent\n\n2025 Awarded the Goizueta Foundation Term Chair and the Jordan Research Excellence Award\n2025 “Valuation and Returns on Stock Return Volatility” published in The Accounting Review\n2026 Invited talks at Florida International University and Hong Kong University"
   },
   {
     "objectID": "service.html",
     "href": "service.html",
     "title": "Service",
     "section": "",
-    "text": "Ad-hoc reviewer: The Accounting Review, Journal of Financial Economics, Review of Accounting Studies, Contemporary Accounting Research, Journal of Accounting Research, [others]"
+    "text": "Editor, Contemporary Accounting Research, 2023-present\nAd Hoc Editor, Contemporary Accounting Research, 2020-2023\nEditorial Board Member, The Accounting Review, 2020-present\nEditorial Board Member, Contemporary Accounting Research, 2017-present"
   },
   {
-    "objectID": "service.html#editorial-and-review-service",
-    "href": "service.html#editorial-and-review-service",
+    "objectID": "service.html#editorial-service",
+    "href": "service.html#editorial-service",
     "title": "Service",
     "section": "",
-    "text": "Ad-hoc reviewer: The Accounting Review, Journal of Financial Economics, Review of Accounting Studies, Contemporary Accounting Research, Journal of Accounting Research, [others]"
+    "text": "Editor, Contemporary Accounting Research, 2023-present\nAd Hoc Editor, Contemporary Accounting Research, 2020-2023\nEditorial Board Member, The Accounting Review, 2020-present\nEditorial Board Member, Contemporary Accounting Research, 2017-present"
   },
   {
-    "objectID": "service.html#professional-service",
-    "href": "service.html#professional-service",
+    "objectID": "service.html#ad-hoc-reviewer",
+    "href": "service.html#ad-hoc-reviewer",
     "title": "Service",
-    "section": "Professional Service",
-    "text": "Professional Service\n\nArea Coordinator, Accounting Area, Goizueta Business School (Year-Present)\n\nResponsibilities include practice track faculty promotion review.\n\n[Conference / Committee Role], [Organization], [Year]"
+    "section": "Ad-hoc Reviewer",
+    "text": "Ad-hoc Reviewer\nThe Accounting Review; Management Science; Contemporary Accounting Research; Journal of Accounting Research; Review of Accounting Studies; Review of Financial Studies; Journal of Accounting and Economics; Financial Management; Abacus; Journal of Accounting, Auditing and Finance; Review of Finance; Accounting Horizons; Quantitative Finance"
+  },
+  {
+    "objectID": "service.html#external-grant-and-research-proposal-reviewer",
+    "href": "service.html#external-grant-and-research-proposal-reviewer",
+    "title": "Service",
+    "section": "External Grant and Research Proposal Reviewer",
+    "text": "External Grant and Research Proposal Reviewer\n\nResearch Grants Council of Hong Kong\nIsraeli Science Foundation"
   },
   {
     "objectID": "service.html#internal-service-goizueta",
     "href": "service.html#internal-service-goizueta",
     "title": "Service",
     "section": "Internal Service (Goizueta)",
-    "text": "Internal Service (Goizueta)\n\nFaculty recruiting committee, Year\n[Other committee], Year\nPhD program committee, Year"
+    "text": "Internal Service (Goizueta)\n\nArea Coordinator, Accounting Area — including practice track faculty promotion review"
+  },
+  {
+    "objectID": "service.html#conference-and-professional-service",
+    "href": "service.html#conference-and-professional-service",
+    "title": "Service",
+    "section": "Conference and Professional Service",
+    "text": "Conference and Professional Service\n\nValuation Section Coordinator/Liaison, AAA Annual Meeting, 2018\nFARS Midwest Coordinator, 2016 and 2017"
+  },
+  {
+    "objectID": "service.html#honors-and-awards",
+    "href": "service.html#honors-and-awards",
+    "title": "Service",
+    "section": "Honors and Awards",
+    "text": "Honors and Awards\n\nGoizueta Foundation Term Chair, 2025\nJordan Research Excellence Award, 2025\nHolland Research Award (outstanding research by an Associate Professor), 2024\nNFA Best Paper Award for “Firm Fundamentals and Variance Risk Premiums”, 2016\nEY Live Research Fellowship, 2015 and 2016\nLawrence Revsine Research Fellowship, 2014, 2017-2021\nDonald P. Jacobs Scholar, 2013\nAAA/Grant Thornton Doctoral Dissertation Award, 2012\nCanadian Securities Institute Research Foundation Doctoral Award, 2012"
   }
 ]
