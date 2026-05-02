@@ -1,17 +1,58 @@
-/* Custom overrides on top of the litera theme */
+/* Emory Goizueta color palette */
+:root {
+  --emory-blue: #012169;
+  --emory-gold: #B58500;
+  --emory-gold-soft: #c79000;
+}
 
-.navbar-title { font-weight: 600; }
+/* Navbar */
+.navbar-title {
+  font-weight: 600;
+}
+.navbar {
+  border-bottom: 3px solid var(--emory-gold);
+}
 
-h1, h2, h3 { font-weight: 600; letter-spacing: -0.01em; }
+/* Headings */
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+h2, h3 {
+  color: var(--emory-blue);
+}
 
-/* Tighter spacing on title blocks */
+/* Title block */
 .quarto-title-block { margin-bottom: 1.5rem; }
+.quarto-title-block .title {
+  color: var(--emory-blue);
+}
 
-/* Publication list styling */
+/* Body links - keep navbar/footer untouched */
+main a:not(.btn) {
+  color: var(--emory-blue);
+}
+main a:not(.btn):hover {
+  color: var(--emory-gold);
+}
+
+/* About-page links (Home page social/contact links) */
+.about-link {
+  color: var(--emory-blue) !important;
+}
+.about-link:hover {
+  color: var(--emory-gold) !important;
+}
+
+/* Publication list */
 .publication {
   margin-bottom: 1.25rem;
   padding-left: 1rem;
   border-left: 3px solid #e9ecef;
+  transition: border-left-color 0.2s ease;
+}
+.publication:hover {
+  border-left-color: var(--emory-gold);
 }
 .publication-title { font-weight: 600; }
 .publication-meta { color: #6c757d; font-size: 0.9rem; }
