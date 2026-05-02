@@ -1,6 +1,6 @@
 ---
 title: "Matthew Lyle"
-subtitle: "Associate Professor of Accounting"
+subtitle: "Goizueta Term Chair Associate Professor of Accounting"
 about:
   template: trestles
   image: profile.jpg
@@ -22,12 +22,14 @@ about:
       href: https://www.linkedin.com/in/YOUR-HANDLE
 ---
 
-I am an Associate Professor of Accounting at the [Goizueta Business School](https://goizueta.emory.edu/), Emory University. I also serve as Area Coordinator for the Accounting area.
+I am the Goizueta Term Chair Associate Professor of Accounting at the [Goizueta Business School](https://goizueta.emory.edu/), Emory University. Before joining Emory in 2022, I was on the faculty of the Kellogg School of Management at Northwestern University.
 
-My research focuses on accounting-based valuation, capital markets, and the design of systematic trading strategies. My work has appeared in *The Accounting Review*, the *Journal of Financial Economics*, and the *Review of Accounting Studies*.
+My research focuses on valuation and value investing, and more broadly on connecting fundamental analysis with quantitative methods, data analytics, and machine learning for prediction and decision-making. My work has appeared in *The Accounting Review*, the *Journal of Financial Economics*, and the *Review of Accounting Studies*.
+
+I hold a Ph.D. in Management from the Rotman School of Management (University of Toronto) and a Ph.D. in Mathematical Finance from the University of Calgary.
 
 ## Recent
 
-- *[Date]* New working paper posted: [paper title]
-- *[Date]* Presenting at [conference / seminar]
-- *[Date]* [Other update]
+- *2025* Awarded the Goizueta Foundation Term Chair and the Jordan Research Excellence Award
+- *2025* "Valuation and Returns on Stock Return Volatility" published in *The Accounting Review*
+- *2026* Invited talks at Florida International University and Hong Kong University

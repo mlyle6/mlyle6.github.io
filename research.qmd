@@ -2,47 +2,118 @@
 title: "Research"
 ---
 
-## Published Papers
+My research focuses on valuation and value investing, and on connecting fundamental analysis with quantitative methods, data analytics, and machine learning for prediction and decision-making.
+
+## Published & Forthcoming Papers
 
 ::: {.publication}
-[**Paper Title One**](files/papers/paper1.pdf)  
-*with Coauthor A and Coauthor B*  
-[*The Accounting Review*]{.publication-meta}, Vol. XX, Issue Y, Pages ZZZ-ZZZ, YEAR.  
-[[Journal](https://doi.org/...)] [[SSRN](https://ssrn.com/abstract=...)] [[Code](https://github.com/...)]
-
-<details>
-<summary>Abstract</summary>
-Abstract text goes here. Keep it to one paragraph.
-</details>
+**Valuation and Returns on Stock Return Volatility**  
+M.R. Lyle  
+[*The Accounting Review*]{.publication-meta}, 2025, Vol. 100, Issue 2.
 :::
 
 ::: {.publication}
-[**Paper Title Two**](files/papers/paper2.pdf)  
-*with Coauthor C*  
-[*Journal of Financial Economics*]{.publication-meta}, Vol. XX, YEAR.  
-[[Journal](https://doi.org/...)] [[SSRN](https://ssrn.com/abstract=...)]
+**Measuring Portfolio Gains: The Case of Earnings Announcement Trading Signals**  
+*with T. Yohn*  
+[*The Accounting Review*]{.publication-meta}, 2024, Vol. 99, Issue 4.
+:::
 
-<details>
-<summary>Abstract</summary>
-Abstract text.
-</details>
+::: {.publication}
+**Changes in Risk Factor Disclosures and the Variance Risk Premium**  
+*with E. Riedl and F. Siano*  
+[*The Accounting Review*]{.publication-meta}, 2023, Vol. 98, Issue 6.
+:::
+
+::: {.publication}
+**Expected Stock Returns Worldwide: A Log-Linear Present-Value Approach**  
+*with A. Chattopadhyay and C.C.Y. Wang*  
+[*The Accounting Review*]{.publication-meta}, 2022, Vol. 97, Issue 2.
+:::
+
+::: {.publication}
+**Fundamental Analysis and Mean-Variance Optimal Portfolios**  
+*with T. Yohn*  
+[*The Accounting Review*]{.publication-meta}, 2021, Vol. 96, Issue 6.
+:::
+
+::: {.publication}
+**The Term Structure of the Implied Costs of Equity Capital**  
+*with J.L. Callen*  
+[*Review of Accounting Studies*]{.publication-meta}, 2020, Vol. 25, Issue 1.
+:::
+
+::: {.publication}
+**Information Quality, Growth Options, and Average Future Stock Returns**  
+M.R. Lyle  
+[*The Accounting Review*]{.publication-meta}, 2019, Vol. 94, Issue 1.
+:::
+
+::: {.publication}
+**Implied Cost of Equity Capital Estimates as Predictors of Accounting Returns and Stock Returns**  
+*with S. Larocque*  
+[*Journal of Financial Reporting*]{.publication-meta}, 2017, Vol. 2, Issue 1.
+:::
+
+::: {.publication}
+**Discussion of Valuation: Accounting for Risk and the Expected Return**  
+M.R. Lyle  
+[*Abacus*]{.publication-meta}, 2016, Vol. 52, Issue 1. Invited discussion for special issue on valuation.
+:::
+
+::: {.publication}
+**The Cross Section of Expected Holding Period Returns and Their Dynamics: A Present Value Approach**  
+*with C.C.Y. Wang*  
+[*Journal of Financial Economics*]{.publication-meta}, 2015, Vol. 116, Issue 3.
+:::
+
+::: {.publication}
+**Dynamic Risk, Accounting-Based Valuation, and Firm Fundamentals**  
+*with J.L. Callen and R.J. Elliott*  
+[*Review of Accounting Studies*]{.publication-meta}, 2013, Vol. 18, Issue 4.
 :::
 
 ## Working Papers
 
 ::: {.publication}
-[**Working Paper Title**](files/papers/wp1.pdf)  
-*with Coauthor D*  
-[*Revise and resubmit at [Journal Name]*]{.publication-meta}  
-[[SSRN](https://ssrn.com/abstract=...)]
-
-<details>
-<summary>Abstract</summary>
-Abstract text.
-</details>
+**The Differential Market Reaction to Pre-Open versus Post-Close Earnings Announcements**  
+*with A. Stephan and T. Yohn*
 :::
 
-## Work in Progress
+::: {.publication}
+**Re-Adjusted Financial Statement Data: Challenges in Replicating Research**  
+*with F. Siano and T. Yohn*
+:::
 
-- "Project title 1" with Coauthor E
-- "Project title 2" with Coauthor F
+::: {.publication}
+**Connecting Expected Stock Returns to Accounting Valuation Multiples: A Primer**  
+*with A. Chattopadhyay and C.C.Y. Wang*
+:::
+
+## Publications in Other Areas
+
+::: {.publication}
+**Trading Volume and Open Interest from Options Markets as Measures of the Effect of IT Announcements**  
+*with D. Zhang and B. Nault*  
+[*Information Technology & Management*]{.publication-meta}, 2024, Vol. 25, Issue 2.
+:::
+
+::: {.publication}
+**A Model for Energy Pricing with Stochastic Emission Costs**  
+*with R.J. Elliott and H. Miao*  
+[*Energy Economics*]{.publication-meta}, 2010, Vol. 32, Issue 4.
+:::
+
+::: {.publication}
+**A "Simple" Hybrid Model for Power Derivatives**  
+*with R.J. Elliott*  
+[*Energy Economics*]{.publication-meta}, 2009, Vol. 31, Issue 5.
+:::
+
+## Recent Invited Talks
+
+- **2026:** Florida International University, Hong Kong University (scheduled)
+- **2025:** University of Utah, Humboldt University of Berlin
+- **2024:** Yale, Texas A&M
+- **2023:** UC Berkeley, Liberty Advisor Group, RAST Conference (discussant)
+
+A complete list of invited presentations is available in my [CV](cv.qmd).

@@ -2,28 +2,35 @@
 title: "Teaching"
 ---
 
-## Current Courses
+## Current Courses (Goizueta)
 
-### [Course Number]: Course Title
-*[Semester, Year]* | [Program: MBA / MSBA / PhD / Undergraduate]
+### Valuation, Asset Pricing, and Prediction
+*PhD course | Fall 2024-present*
 
-Brief description of the course. One or two sentences on topics covered.
+### Machine Learning for Fundamental Analysis
+*Newly developed course | Spring 2024-present*
 
-[[Syllabus](files/syllabi/course1_syllabus.pdf)]
-
-### [Course Number]: Course Title
-*[Semester, Year]* | [Program]
-
-Description.
+### Blockchains and Crypto Assets
+*Newly developed course | Spring 2023-present*
 
 ## Past Courses
 
-- **[Course]**, [Program], [Years taught]
-- **[Course]**, [Program], [Years taught]
+- **Managerial Accounting** | Goizueta Business School, Emory University | Fall 2022
+- **Managerial Accounting** | Kellogg School of Management, Northwestern University | Spring 2014-2022
+- **Valuation and Asset Pricing** (PhD course) | Kellogg School of Management | Spring 2017
+- **Accounting Theory and Contemporary Issues in Accounting** | York University | Winter 2011
 
-## Doctoral Students
+## Research Supervision and Mentorship
 
-I have served on dissertation committees for:
+### PhD Dissertation Committees
 
-- Student Name (Year, placement)
-- Student Name (Year, placement)
+- **Blake Bawler** — placed at University of Florida
+- **Andrew Stephen** — placed at University of Colorado
+- **Eva Yan** — placed at Hunter College
+
+### Research Supervision (Non-PhD)
+
+- **Rishabh Aggarwal** — Stanford GSB Ph.D. Program
+- **Clark Shu** — Rotman Ph.D. Program
+- **Cindy Lu** — Machine Learning and AI Division of the Federal Reserve
+- **Doron Czarny** — Liberty Advisor Group
