@@ -1,0 +1,17 @@
+/* Custom overrides on top of the litera theme */
+
+.navbar-title { font-weight: 600; }
+
+h1, h2, h3 { font-weight: 600; letter-spacing: -0.01em; }
+
+/* Tighter spacing on title blocks */
+.quarto-title-block { margin-bottom: 1.5rem; }
+
+/* Publication list styling */
+.publication {
+  margin-bottom: 1.25rem;
+  padding-left: 1rem;
+  border-left: 3px solid #e9ecef;
+}
+.publication-title { font-weight: 600; }
+.publication-meta { color: #6c757d; font-size: 0.9rem; }

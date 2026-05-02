@@ -1,0 +1,19 @@
+# Quarto build artifacts
+/.quarto/
+/_site/
+/_freeze/
+
+# Logs
+*.log
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python (in case we ever embed code)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

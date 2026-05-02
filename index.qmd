@@ -1,0 +1,33 @@
+---
+title: "Matthew Lyle"
+subtitle: "Associate Professor of Accounting"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:matthew.lyle@emory.edu
+    - text: "{{< ai google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=YOUR_ID
+    - text: "{{< ai ssrn >}} SSRN"
+      href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=YOUR_ID
+    - icon: github
+      text: GitHub
+      href: https://github.com/mlyle6
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/YOUR-HANDLE
+---
+
+I am an Associate Professor of Accounting at the [Goizueta Business School](https://goizueta.emory.edu/), Emory University. I also serve as Area Coordinator for the Accounting area.
+
+My research focuses on accounting-based valuation, capital markets, and the design of systematic trading strategies. My work has appeared in *The Accounting Review*, the *Journal of Financial Economics*, and the *Review of Accounting Studies*.
+
+## Recent
+
+- *[Date]* New working paper posted: [paper title]
+- *[Date]* Presenting at [conference / seminar]
+- *[Date]* [Other update]

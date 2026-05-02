@@ -1,0 +1,48 @@
+---
+title: "Research"
+---
+
+## Published Papers
+
+::: {.publication}
+[**Paper Title One**](files/papers/paper1.pdf)  
+*with Coauthor A and Coauthor B*  
+[*The Accounting Review*]{.publication-meta}, Vol. XX, Issue Y, Pages ZZZ-ZZZ, YEAR.  
+[[Journal](https://doi.org/...)] [[SSRN](https://ssrn.com/abstract=...)] [[Code](https://github.com/...)]
+
+<details>
+<summary>Abstract</summary>
+Abstract text goes here. Keep it to one paragraph.
+</details>
+:::
+
+::: {.publication}
+[**Paper Title Two**](files/papers/paper2.pdf)  
+*with Coauthor C*  
+[*Journal of Financial Economics*]{.publication-meta}, Vol. XX, YEAR.  
+[[Journal](https://doi.org/...)] [[SSRN](https://ssrn.com/abstract=...)]
+
+<details>
+<summary>Abstract</summary>
+Abstract text.
+</details>
+:::
+
+## Working Papers
+
+::: {.publication}
+[**Working Paper Title**](files/papers/wp1.pdf)  
+*with Coauthor D*  
+[*Revise and resubmit at [Journal Name]*]{.publication-meta}  
+[[SSRN](https://ssrn.com/abstract=...)]
+
+<details>
+<summary>Abstract</summary>
+Abstract text.
+</details>
+:::
+
+## Work in Progress
+
+- "Project title 1" with Coauthor E
+- "Project title 2" with Coauthor F

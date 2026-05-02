@@ -1,0 +1,29 @@
+---
+title: "Teaching"
+---
+
+## Current Courses
+
+### [Course Number]: Course Title
+*[Semester, Year]* | [Program: MBA / MSBA / PhD / Undergraduate]
+
+Brief description of the course. One or two sentences on topics covered.
+
+[[Syllabus](files/syllabi/course1_syllabus.pdf)]
+
+### [Course Number]: Course Title
+*[Semester, Year]* | [Program]
+
+Description.
+
+## Past Courses
+
+- **[Course]**, [Program], [Years taught]
+- **[Course]**, [Program], [Years taught]
+
+## Doctoral Students
+
+I have served on dissertation committees for:
+
+- Student Name (Year, placement)
+- Student Name (Year, placement)
