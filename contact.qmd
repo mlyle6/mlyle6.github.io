@@ -13,8 +13,8 @@ Atlanta, GA 30322
 
 ## Online
 
-- {{< ai google-scholar >}} [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
-- {{< ai ssrn >}} [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=YOUR_ID)
-- {{< ai orcid >}} [ORCID](https://orcid.org/YOUR-ORCID)
+- {{< ai google-scholar >}} [Google Scholar](https://scholar.google.com/citations?user=ky2yVu4AAAAJ)
+- {{< ai ssrn >}} [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=922691)
+- {{< ai orcid >}} [ORCID](https://orcid.org/0000-0003-0876-8578)
+- {{< fa solid book >}} [Web of Science](https://www.webofscience.com/wos/author/record/PXY-3359-2026)
 - {{< fa brands github >}} [GitHub](https://github.com/mlyle6)
-- {{< fa brands linkedin >}} [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)

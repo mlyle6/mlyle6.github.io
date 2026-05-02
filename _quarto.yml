@@ -7,7 +7,7 @@ project:
 
 website:
   title: "Matthew Lyle"
-  description: "Associate Professor of Accounting, Goizueta Business School, Emory University"
+  description: "Goizueta Term Chair Associate Professor of Accounting, Goizueta Business School, Emory University"
   site-url: "https://mlyle6.github.io"
   repo-url: "https://github.com/mlyle6/mlyle6.github.io"
 
@@ -28,14 +28,11 @@ website:
         text: Contact
     right:
       - icon: google
-        href: https://scholar.google.com/citations?user=YOUR_ID
+        href: https://scholar.google.com/citations?user=ky2yVu4AAAAJ
         aria-label: Google Scholar
       - icon: github
         href: https://github.com/mlyle6
         aria-label: GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/YOUR-HANDLE
-        aria-label: LinkedIn
 
   page-footer:
     left: "Matthew Lyle &copy; {{< now >}}"

@@ -11,15 +11,14 @@ about:
       text: Email
       href: mailto:matthew.lyle@emory.edu
     - text: "{{< ai google-scholar >}} Scholar"
-      href: https://scholar.google.com/citations?user=YOUR_ID
+      href: https://scholar.google.com/citations?user=ky2yVu4AAAAJ
     - text: "{{< ai ssrn >}} SSRN"
-      href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=YOUR_ID
+      href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=922691
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-0876-8578
     - icon: github
       text: GitHub
       href: https://github.com/mlyle6
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/YOUR-HANDLE
 ---
 
 I am the Goizueta Term Chair Associate Professor of Accounting at the [Goizueta Business School](https://goizueta.emory.edu/), Emory University. Before joining Emory in 2022, I was on the faculty of the Kellogg School of Management at Northwestern University.
