@@ -9,49 +9,57 @@ My research focuses on valuation and value investing, and on connecting fundamen
 ::: {.publication}
 **Valuation and Returns on Stock Return Volatility**  
 M.R. Lyle  
-[*The Accounting Review*]{.publication-meta}, 2025, Vol. 100, Issue 2.
+[*The Accounting Review*]{.publication-meta}, 2025, Vol. 100, Issue 2.  
+[[SSRN](https://ssrn.com/abstract=2696183)]
 :::
 
 ::: {.publication}
 **Measuring Portfolio Gains: The Case of Earnings Announcement Trading Signals**  
 *with T. Yohn*  
-[*The Accounting Review*]{.publication-meta}, 2024, Vol. 99, Issue 4.
+[*The Accounting Review*]{.publication-meta}, 2024, Vol. 99, Issue 4.  
+[[SSRN](https://ssrn.com/abstract=4063271)]
 :::
 
 ::: {.publication}
 **Changes in Risk Factor Disclosures and the Variance Risk Premium**  
 *with E. Riedl and F. Siano*  
-[*The Accounting Review*]{.publication-meta}, 2023, Vol. 98, Issue 6.
+[*The Accounting Review*]{.publication-meta}, 2023, Vol. 98, Issue 6.  
+[[SSRN](https://ssrn.com/abstract=4090024)]
 :::
 
 ::: {.publication}
 **Expected Stock Returns Worldwide: A Log-Linear Present-Value Approach**  
 *with A. Chattopadhyay and C.C.Y. Wang*  
-[*The Accounting Review*]{.publication-meta}, 2022, Vol. 97, Issue 2.
+[*The Accounting Review*]{.publication-meta}, 2022, Vol. 97, Issue 2.  
+[[SSRN](https://ssrn.com/abstract=3129086)]
 :::
 
 ::: {.publication}
 **Fundamental Analysis and Mean-Variance Optimal Portfolios**  
 *with T. Yohn*  
-[*The Accounting Review*]{.publication-meta}, 2021, Vol. 96, Issue 6.
+[*The Accounting Review*]{.publication-meta}, 2021, Vol. 96, Issue 6.  
+[[SSRN](https://ssrn.com/abstract=3300976)]
 :::
 
 ::: {.publication}
 **The Term Structure of the Implied Costs of Equity Capital**  
 *with J.L. Callen*  
-[*Review of Accounting Studies*]{.publication-meta}, 2020, Vol. 25, Issue 1.
+[*Review of Accounting Studies*]{.publication-meta}, 2020, Vol. 25, Issue 1.  
+[[SSRN](https://ssrn.com/abstract=1738401)]
 :::
 
 ::: {.publication}
 **Information Quality, Growth Options, and Average Future Stock Returns**  
 M.R. Lyle  
-[*The Accounting Review*]{.publication-meta}, 2019, Vol. 94, Issue 1.
+[*The Accounting Review*]{.publication-meta}, 2019, Vol. 94, Issue 1.  
+[[SSRN](https://ssrn.com/abstract=2437387)]
 :::
 
 ::: {.publication}
 **Implied Cost of Equity Capital Estimates as Predictors of Accounting Returns and Stock Returns**  
 *with S. Larocque*  
-[*Journal of Financial Reporting*]{.publication-meta}, 2017, Vol. 2, Issue 1.
+[*Journal of Financial Reporting*]{.publication-meta}, 2017, Vol. 2, Issue 1.  
+[[SSRN](https://ssrn.com/abstract=2370686)]
 :::
 
 ::: {.publication}
@@ -63,30 +71,35 @@ M.R. Lyle
 ::: {.publication}
 **The Cross Section of Expected Holding Period Returns and Their Dynamics: A Present Value Approach**  
 *with C.C.Y. Wang*  
-[*Journal of Financial Economics*]{.publication-meta}, 2015, Vol. 116, Issue 3.
+[*Journal of Financial Economics*]{.publication-meta}, 2015, Vol. 116, Issue 3.  
+[[SSRN](https://ssrn.com/abstract=2182628)]
 :::
 
 ::: {.publication}
 **Dynamic Risk, Accounting-Based Valuation, and Firm Fundamentals**  
 *with J.L. Callen and R.J. Elliott*  
-[*Review of Accounting Studies*]{.publication-meta}, 2013, Vol. 18, Issue 4.
+[*Review of Accounting Studies*]{.publication-meta}, 2013, Vol. 18, Issue 4.  
+[[SSRN](https://ssrn.com/abstract=2025959)]
 :::
 
 ## Working Papers
 
 ::: {.publication}
 **The Differential Market Reaction to Pre-Open versus Post-Close Earnings Announcements**  
-*with A. Stephan and T. Yohn*
+*with A. Stephan and T. Yohn*  
+[[SSRN](https://ssrn.com/abstract=3064160)]
 :::
 
 ::: {.publication}
 **Re-Adjusted Financial Statement Data: Challenges in Replicating Research**  
-*with F. Siano and T. Yohn*
+*with F. Siano and T. Yohn*  
+[[SSRN](https://ssrn.com/abstract=5107985)]
 :::
 
 ::: {.publication}
 **Connecting Expected Stock Returns to Accounting Valuation Multiples: A Primer**  
-*with A. Chattopadhyay and C.C.Y. Wang*
+*with A. Chattopadhyay and C.C.Y. Wang*  
+[[SSRN](https://ssrn.com/abstract=3774442)]
 :::
 
 ## Publications in Other Areas
