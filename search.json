@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "[Semester, Year] | [Program: MBA / MSBA / PhD / Undergraduate]\nBrief description of the course. One or two sentences on topics covered.\n[Syllabus]\n\n\n\n[Semester, Year] | [Program]\nDescription."
+  },
+  {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "[Semester, Year] | [Program: MBA / MSBA / PhD / Undergraduate]\nBrief description of the course. One or two sentences on topics covered.\n[Syllabus]\n\n\n\n[Semester, Year] | [Program]\nDescription."
+  },
+  {
+    "objectID": "teaching.html#past-courses",
+    "href": "teaching.html#past-courses",
+    "title": "Teaching",
+    "section": "Past Courses",
+    "text": "Past Courses\n\n[Course], [Program], [Years taught]\n[Course], [Program], [Years taught]"
+  },
+  {
+    "objectID": "teaching.html#doctoral-students",
+    "href": "teaching.html#doctoral-students",
+    "title": "Teaching",
+    "section": "Doctoral Students",
+    "text": "Doctoral Students\nI have served on dissertation committees for:\n\nStudent Name (Year, placement)\nStudent Name (Year, placement)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Paper Title One\nwith Coauthor A and Coauthor B\nThe Accounting Review, Vol. XX, Issue Y, Pages ZZZ-ZZZ, YEAR.\n[Journal] [SSRN] [Code]\n\n\nAbstract\n\nAbstract text goes here. Keep it to one paragraph.\n\n\n\nPaper Title Two\nwith Coauthor C\nJournal of Financial Economics, Vol. XX, YEAR.\n[Journal] [SSRN]\n\n\nAbstract\n\nAbstract text."
+  },
+  {
+    "objectID": "research.html#published-papers",
+    "href": "research.html#published-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Paper Title One\nwith Coauthor A and Coauthor B\nThe Accounting Review, Vol. XX, Issue Y, Pages ZZZ-ZZZ, YEAR.\n[Journal] [SSRN] [Code]\n\n\nAbstract\n\nAbstract text goes here. Keep it to one paragraph.\n\n\n\nPaper Title Two\nwith Coauthor C\nJournal of Financial Economics, Vol. XX, YEAR.\n[Journal] [SSRN]\n\n\nAbstract\n\nAbstract text."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nWorking Paper Title\nwith Coauthor D\nRevise and resubmit at [Journal Name]\n[SSRN]\n\n\nAbstract\n\nAbstract text."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\n“Project title 1” with Coauthor E\n“Project title 2” with Coauthor F"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download my full CV: Matthew_Lyle_CV.pdf"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "matthew.lyle@emory.edu"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "matthew.lyle@emory.edu"
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Contact",
+    "section": "Office",
+    "text": "Office\nGoizueta Business School\nEmory University\n1300 Clifton Road NE\nAtlanta, GA 30322"
+  },
+  {
+    "objectID": "contact.html#online",
+    "href": "contact.html#online",
+    "title": "Contact",
+    "section": "Online",
+    "text": "Online\n\n Google Scholar\n SSRN\n ORCID\n{{&lt; fa brands github &gt;}} GitHub\n{{&lt; fa brands linkedin &gt;}} LinkedIn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matthew Lyle",
+    "section": "",
+    "text": "I am an Associate Professor of Accounting at the Goizueta Business School, Emory University. I also serve as Area Coordinator for the Accounting area.\nMy research focuses on accounting-based valuation, capital markets, and the design of systematic trading strategies. My work has appeared in The Accounting Review, the Journal of Financial Economics, and the Review of Accounting Studies."
+  },
+  {
+    "objectID": "index.html#recent",
+    "href": "index.html#recent",
+    "title": "Matthew Lyle",
+    "section": "Recent",
+    "text": "Recent\n\n[Date] New working paper posted: [paper title]\n[Date] Presenting at [conference / seminar]\n[Date] [Other update]"
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Service",
+    "section": "",
+    "text": "Ad-hoc reviewer: The Accounting Review, Journal of Financial Economics, Review of Accounting Studies, Contemporary Accounting Research, Journal of Accounting Research, [others]"
+  },
+  {
+    "objectID": "service.html#editorial-and-review-service",
+    "href": "service.html#editorial-and-review-service",
+    "title": "Service",
+    "section": "",
+    "text": "Ad-hoc reviewer: The Accounting Review, Journal of Financial Economics, Review of Accounting Studies, Contemporary Accounting Research, Journal of Accounting Research, [others]"
+  },
+  {
+    "objectID": "service.html#professional-service",
+    "href": "service.html#professional-service",
+    "title": "Service",
+    "section": "Professional Service",
+    "text": "Professional Service\n\nArea Coordinator, Accounting Area, Goizueta Business School (Year-Present)\n\nResponsibilities include practice track faculty promotion review.\n\n[Conference / Committee Role], [Organization], [Year]"
+  },
+  {
+    "objectID": "service.html#internal-service-goizueta",
+    "href": "service.html#internal-service-goizueta",
+    "title": "Service",
+    "section": "Internal Service (Goizueta)",
+    "text": "Internal Service (Goizueta)\n\nFaculty recruiting committee, Year\n[Other committee], Year\nPhD program committee, Year"
+  }
+]
